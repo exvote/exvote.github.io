@@ -1,2 +1,2 @@
 # exvote.github.io
-exvote.org
+exvote.github.io
